@@ -1,7 +1,7 @@
 # Hi, I'm Iftekharul Abedeen 👋
 
-**Incoming MSc in Computer Science @ University of Calgary 🇨🇦 (Fall 2026)**
-Computer Vision Researcher · Lecturer in CSE @ United International University
+**An MSc in Computer Science @ University of Calgary 🇨🇦 (Fall 2026)**
+Computer Vision Researcher · Lecturer in CSE @ United International University (on leave)
 
 ---
 
